@@ -67,29 +67,16 @@ export const skills = {
   programmingLanguages: [
     "Python",
     "R",
-    "Java",
-    "Solidity",
   ],
   frontendDevelopment: [
-    "Nextjs",
-    "Reactjs",
-    "React Native",
-    "Shadcn UI",
-    "Tailwind CSS",
     "HTML",
-    "CSS",
   ],
   backendDevelopment: ["Nodejs", "Expressjs"],
-  databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
-  cloudAndDevOps: ["AWS"],
+  databaseAndStorage: ["PostgreSQL", "SQL"],
+  cloudAndDevOps: ["Azure"],
   toolsAndServices: [
-    "Clerk (Auth)",
-    "Sanity (CMS)",
-    "Tinybird (analytics)",
-    "Zod",
-    "Sentry",
-    "Mixpanel",
-    "Trigger.dev",
+    "Tableu",
+    "Power BI",
   ],
 };
 
