@@ -71,7 +71,7 @@ export const skills = {
   databaseAndStorage: ["PostgreSQL", "SQL"],
   cloudAndDevOps: ["Azure"],
   toolsAndServices: [
-    "Power BI)",
+    "Power BI",
     "Tableu",
   ],
 };
