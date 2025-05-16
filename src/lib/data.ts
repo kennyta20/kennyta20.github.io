@@ -78,8 +78,8 @@ export const skills = {
 
 export const projects = [
   {
-    title: "Net Zero Carbon Emissions",
-    github: "https://github.com/rishikesh2003/Prodigi",
+    title: " The insurance company Sure Tomorrow ML",
+    github: "https://github.com/kennyta20/The-insurance-company-Sure-Tomorrow",
     description: [
       "WiFi-RTT: Developed indoor occupancy tracking for energy optimization.",
       "IoT Solutions: Implemented smart monitoring for energy efficiency and food waste reduction.",
