@@ -82,7 +82,7 @@ export const projects = [
     github: "https://github.com/kennyta20/The-insurance-company-Sure-Tomorrow",
     image: "public/Proyecto 1.jpg",
     description: [
-      "Sure Tomorrow, an insurance company, aims to leverage machine learning to optimize its operations and improve customer experiences. The project involves evaluating the feasibility of four key tasks: identifying customers similar to a given customer to enhance targeted marketing efforts, predicting the likelihood of a new customer receiving insurance benefits, estimating the number of benefits using a linear regression model, and implementing a data masking algorithm to protect personal information without compromising model performance. These initiatives aim to enhance predictive accuracy, safeguard sensitive data, and support informed decision-making, aligning with Sure Tomorrow’s commitment to innovation and customer-centric solutions.",
+      "Sure Tomorrow, an insurance company, seeks to apply machine learning to optimize its operations and improve customer experience. The project evaluates four tasks: finding similar customers for personalized marketing, predicting whether a new customer will receive benefits, estimating the amount of benefits using linear regression, and applying data masking to protect privacy without affecting model performance. These initiatives seek to improve predictive accuracy, protect sensitive data, and support decision-making, aligning with its innovative and customer-centric approach.",
     ],
   },
   {
