@@ -122,15 +122,18 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              🚀 Passionate software engineer with a versatile skill set
-              spanning multiple domains. I thrive on solving complex challenges
-              across different platforms and environments, adapting quickly to
-              new technologies and methodologies. My holistic approach combines
-              technical expertise with creative problem-solving, allowing me to
-              develop solutions that are both innovative and practical. I'm
-              driven by continuous learning and a commitment to excellence,
-              whether working independently or collaborating with diverse teams
-              to create impactful, scalable solutions.
+              🚀 Data scientist passionate about transforming complex problems
+              into clear, actionable solutions, I'm driven by a curiosity to 
+              solve complex problems that matter, from sales and customer 
+              behavior to social well-being and mental health. My background in 
+              business intelligence and data science—combined with practical 
+              experience in Python, SQL, machine learning, and data visualization 
+              has allowed me to build robust, creative solutions with real impact.
+              Not only do I adapt quickly to new technologies and environments, but 
+              I also enjoy learning on my own, constantly challenging myself, and 
+              sharing what I've learned to grow with others. Whether collaborating 
+              with diverse teams or leading projects, my commitment is always the 
+              same: transforming data into decisions, and decisions into progress.
             </p>
           </div>
         </MotionWrapper>
