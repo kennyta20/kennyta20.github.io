@@ -78,7 +78,7 @@ export const skills = {
 
 export const projects = [
   {
-    title: "The-insurance company Sure Tomorrow",
+    title: "The insurance company Sure Tomorrow",
     github: "https://github.com/kennyta20/The-insurance-company-Sure-Tomorrow",
     image: "public/Proyecto 1.jpg",
     description: [
@@ -86,14 +86,19 @@ export const projects = [
     ],
   },
   {
-    title: "Mental Aarog",
-    github: "https://github.com/rishikesh2003/mental-aarog",
+    title: "Sweet Lift Taxi ML",
+    github: "https://github.com/kennyta20/Sweet-Lift-Taxi-ML",
+    image: "/Proyecto 2.jpg",
     description: [
-      "A holistic mental health app leveraging AI and blockchain for early detection and personalized solutions for depression.",
-      "Features include social media analysis (ML-based sentiment tracking), PHQ-9 assessments, smartwatch integration for sleep and activity data, guided meditation, and smart suggestions for food, travel, music, and movies.",
-      "Developed a rewards system using MAG crypto token on Ethereum, enabling user engagement through in-app incentives.",
-      "Secure storage implemented via web3.storage, IPFS, and FileCoin.",
-      "Built with React, Supabase, Node.js, Flask, and Solidity, showcasing seamless integration of health tech and blockchain.",
+      "Sweet Lift Taxi company has collected historical data on taxi orders at airports. To attract more drivers during peak hours, we need to predict the number of taxi orders for the next hour. Build a model for such a prediction. The RECM metric on the test set should not be higher than 48.",
+    ],
+  },
+  {
+    title: "Rusty Bargain ML",
+    github: "https://github.com/kennyta20/Sweet-Lift-Taxi-ML",
+    image: "kennyta20/kennyta20.github.io/public/Proyecto 3.jpg",
+    description: [
+      "Rusty Bargain used car sales service is developing an app to attract new customers. Thanks to this app, you can quickly find out the market value of your car. We have access to the history: technical specifications, equipment versions and prices. You have to create a model that will determine the market value.",
     ],
   },
 ];
