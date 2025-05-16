@@ -86,6 +86,14 @@ export const projects = [
     ],
   },
   {
+    title: "Megaline ML",
+    github: "https://github.com/kennyta20/Megaline-ML",
+    image: "kennyta20/kennyta20.github.io/public/Proyecto 3.jpg",
+    description: [
+      "In a highly competitive telecommunications market, customer retention and optimisation of their subscription plans are key elements to ensure the sustainability and growth of companies. Megaline, a leading mobile services company, faces the challenge of modernising its customers who are still using legacy planes, less efficient and aligned with its current business objectives. To address this problem, Megaline seeks to implement a data-driven model that analyses customer behaviour and accurately recommends one of the new available planes: Smart or Ultra.",
+    ],
+  },
+  {
     title: "Sweet Lift Taxi ML",
     github: "https://github.com/kennyta20/Sweet-Lift-Taxi-ML",
     image: "/Proyecto 2.jpg",
@@ -131,26 +139,5 @@ export const awards = [
     date: "Sep 2022",
     type: "National",
     position: "First Prize",
-  },
-  {
-    name: "KG Hackfest'22",
-    issuer: "KGiSL Institute of Technology, Coimbatore",
-    date: "Sep 2022",
-    type: "National",
-    position: "Second Prize",
-  },
-  {
-    name: "Innohacks'22",
-    issuer: "Innogeeks, KIET Group of Institutions, New Delhi",
-    date: "May 2022",
-    type: "National",
-    position: "Second Runner-up",
-  },
-  {
-    name: "Hack @ SKCET",
-    issuer: "Hackclub SKCET, SKCET, Coimbatore",
-    date: "Feb 2022",
-    type: "National",
-    position: "Most Impactful Hack",
   },
 ];
