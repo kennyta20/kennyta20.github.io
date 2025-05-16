@@ -67,6 +67,8 @@ export const skills = {
   programmingLanguages: [
     "Python",
     "R",
+    "Java",
+    "Solidity",
   ],
   frontendDevelopment: [
     "Nextjs",
@@ -78,11 +80,16 @@ export const skills = {
     "CSS",
   ],
   backendDevelopment: ["Nodejs", "Expressjs"],
-  databaseAndStorage: ["PostgreSQL", "SQL"],
-  cloudAndDevOps: ["Azure"],
+  databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
+  cloudAndDevOps: ["AWS"],
   toolsAndServices: [
-    "Tableu",
-    "Power BI",
+    "Clerk (Auth)",
+    "Sanity (CMS)",
+    "Tinybird (analytics)",
+    "Zod",
+    "Sentry",
+    "Mixpanel",
+    "Trigger.dev",
   ],
 };
 
