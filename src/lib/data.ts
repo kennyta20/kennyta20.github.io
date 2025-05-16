@@ -68,15 +68,11 @@ export const skills = {
     "Python",
     "R",
   ],
-  frontendDevelopment: [
-    "HTML",
-  ],
-  backendDevelopment: ["Nodejs", "Expressjs"],
   databaseAndStorage: ["PostgreSQL", "SQL"],
   cloudAndDevOps: ["Azure"],
   toolsAndServices: [
+    "Power BI)",
     "Tableu",
-    "Power BI",
   ],
 };
 
