@@ -109,7 +109,7 @@ export default function HeroSection() {
             <div className="relative">
               <div className="absolute -inset-1 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full blur opacity-30 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
               <img
-                src="/profile.jpg"
+                src="public/FotoCV.jpg"
                 alt="Profile"
                 className="w-48 md:w-60 rounded-full relative ring-2 ring-purple-500/50"
                 style={{ objectFit: "cover" }}
@@ -126,7 +126,7 @@ export default function HeroSection() {
               into clear, actionable solutions, I'm driven by a curiosity to 
               solve complex problems that matter, from sales and customer 
               behavior to social well-being and mental health. My background in 
-              business intelligence and data science—combined with practical 
+              business intelligence and data science combined with practical 
               experience in Python, SQL, machine learning, and data visualization 
               has allowed me to build robust, creative solutions with real impact.
               Not only do I adapt quickly to new technologies and environments, but 
