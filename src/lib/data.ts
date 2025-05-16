@@ -78,14 +78,10 @@ export const skills = {
 
 export const projects = [
   {
-    title: "Net Zero Carbon Emissions",
-    github: "https://github.com/rishikesh2003/Prodigi",
+    title: "The-insurance company Sure Tomorrow",
+    github: "https://github.com/kennyta20/The-insurance-company-Sure-Tomorrow",
     description: [
-      "WiFi-RTT: Developed indoor occupancy tracking for energy optimization.",
-      "IoT Solutions: Implemented smart monitoring for energy efficiency and food waste reduction.",
-      "Real-Time Tracking: Designed systems to monitor carbon emissions and optimize resources.",
-      "Data-Driven Insights: Analyzed user patterns for adaptive energy and food management.",
-      "Reward Integration: Built QR-based green points system to incentivize eco-friendly actions.",
+      "Sure Tomorrow, an insurance company, aims to leverage machine learning to optimize its operations and improve customer experiences. The project involves evaluating the feasibility of four key tasks: identifying customers similar to a given customer to enhance targeted marketing efforts, predicting the likelihood of a new customer receiving insurance benefits, estimating the number of benefits using a linear regression model, and implementing a data masking algorithm to protect personal information without compromising model performance. These initiatives aim to enhance predictive accuracy, safeguard sensitive data, and support informed decision-making, aligning with Sure Tomorrow’s commitment to innovation and customer-centric solutions.",
     ],
   },
   {
