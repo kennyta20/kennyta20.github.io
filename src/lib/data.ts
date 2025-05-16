@@ -3,7 +3,7 @@ export const personalInfo = {
   location: "Guadalajara, México",
   email: "kennyta20@outlook.com",
   github: "https://github.com/kennyta20",
-  linkedin: "www.linkedin.com/in/kenny-tapia",
+  linkedin: "https://www.linkedin.com/in/kenny-tapia-43b355302/",
 };
 
 export const workExperience = [
