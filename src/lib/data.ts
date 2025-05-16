@@ -68,7 +68,16 @@ export const skills = {
     "Python",
     "R",
   ],
-  backendDevelopment: [ "Expressjs"],
+  frontendDevelopment: [
+    "Nextjs",
+    "Reactjs",
+    "React Native",
+    "Shadcn UI",
+    "Tailwind CSS",
+    "HTML",
+    "CSS",
+  ],
+  backendDevelopment: ["Nodejs", "Expressjs"],
   databaseAndStorage: ["PostgreSQL", "SQL"],
   cloudAndDevOps: ["Azure"],
   toolsAndServices: [
